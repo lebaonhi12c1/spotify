@@ -24,8 +24,8 @@ a{
   color: #000;
 }
 :root{
-  --primary_color: #FF6651;
-  --hover_color:  #ff2a0e;
+  --primary_color1: #111563;
+  --primary_color2: #191726;
   --nav_height: 40px;
 }
 .root_container{
