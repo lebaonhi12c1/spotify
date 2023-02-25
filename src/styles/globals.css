@@ -32,7 +32,9 @@ a{
   width: 80%;
   margin:auto;
 }
-
+.element_center{
+  margin: var(--nav_height) 0;
+}
 @media (max-width: 600px) {
   .root_container{
     width: 100%;
